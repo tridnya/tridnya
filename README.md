@@ -40,7 +40,7 @@
 - low-level systems
 - Windows internals, process interaction, and memory research
 - graphics programming with OpenGL, GLFW, and DirectX 11
-- bluetooth, RSSI, Wi-Fi, and RF sensing experiments
+- bluetooth, RSSI, Wi-Fi, and RF sensing
 
 ## links
 
