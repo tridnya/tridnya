@@ -35,13 +35,6 @@
   <img src="https://img.shields.io/badge/arch-111111?style=flat-square&logo=archlinux&logoColor=white" />
 </p>
 
-## what i am into
-
-- low-level systems
-- Windows internals, process interaction, and memory research
-- graphics programming with OpenGL, GLFW, and DirectX 11
-- bluetooth, RSSI, Wi-Fi, and RF sensing
-
 ## links
 
 <p align="left">
