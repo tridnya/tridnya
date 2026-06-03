@@ -6,9 +6,6 @@
   <a href="https://github.com/tridnya">
     <img src="https://img.shields.io/badge/tridnya-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/systems-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/graphics-111111?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHRleHQgeD0iNiIgeT0iNDUiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIzNCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI%2BRFg8L3RleHQ%2BPC9zdmc%2B" />
-  <img src="https://img.shields.io/badge/signal_tools-111111?style=for-the-badge&logo=bluetooth&logoColor=white" />
 </p>
 
 </div>
